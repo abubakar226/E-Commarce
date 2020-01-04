@@ -1,0 +1,121 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.12
+MySQL version 		: 5.5.5
+XML Reader 		: Yes
+PHP Version 		: 7.3.12
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 40M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 120
+Max Upload Size 	: 40 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 02:57:57 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+Inserted WP Form 6
+Imported Customizer Settings {"astra-settings":{"astra-addon-auto-version":"2.1.1","theme-auto-version":"2.1.1","site-sidebar-layout":"right-sidebar","woocommerce-content-layout":"default","header-main-rt-section":"woocommerce","body-font-family":"'Mandali', sans-serif","body-font-variant":"","body-font-weight":"400","headings-font-family":"'Mandali', sans-serif","headings-font-weight":"400","header-main-layout-width":"content","font-size-body":{"desktop":"15","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"theme-color":"#75c32c","link-color":"#75c32c","text-color":"#4e5768","link-h-color":"#75c32c","shop-grids":{"desktop":"3","tablet":"3","mobile":"2"},"shop-hover-style":"","shop-product-structure":["category","title","ratings","price"],"footer-bg-obj":{"background-color":"#f7f7f8","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"footer-sml-divider-color":"#eaeaea","footer-color":"#4e5768","footer-link-color":"rgba(117,195,44,0.65)","footer-sml-section-1-credit":"Copyright \u00a9 [current_year] [site_title] | <a href=\"#\">Credits<\/a>","footer-sml-section-2":"custom","footer-sml-section-2-credit":"Powered by <a href=\"#\">[site_title]<\/a>","footer-link-h-color":"#75c32c","footer-sml-layout":"footer-sml-layout-2","transparent-menu-color-responsive":{"desktop":"#ffffff","tablet":"#4e5768","mobile":""},"transparent-menu-h-color-responsive":{"desktop":"#75c32c","tablet":"","mobile":""},"hide-custom-menu-mobile":false,"header-display-outside-menu":true,"mobile-header-toggle-btn-style":"fill","mobile-header-toggle-btn-style-color":"#75c32c","font-size-h2":{"desktop":"3","tablet":"2.5","mobile":"2","desktop-unit":"em","tablet-unit":"em","mobile-unit":"em"},"font-size-h1":{"desktop":"4","tablet":"3","mobile":"2","desktop-unit":"em","tablet-unit":"em","mobile-unit":"em"},"transparent-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-color-responsive":{"desktop":"#4e5768","tablet":"","mobile":""},"transparent-submenu-h-color-responsive":{"desktop":"#75c32c","tablet":"","mobile":""},"different-retina-logo":true,"ast-header-retina-logo":"https:\/\/websitedemos.net\/plant-store-02\/wp-content\/uploads\/sites\/410\/2019\/01\/logo1@2x-free-img-1.png","ast-header-responsive-logo-width":{"desktop":"58","tablet":"60","mobile":"42"},"display-site-title":true,"different-transparent-logo":true,"transparent-header-logo":"https:\/\/websitedemos.net\/plant-store-02\/wp-content\/uploads\/sites\/410\/2019\/01\/logo-free-img-1.png","different-transparent-retina-logo":true,"transparent-header-retina-logo":"https:\/\/websitedemos.net\/plant-store-02\/wp-content\/uploads\/sites\/410\/2019\/01\/logo@2x-free-img-1.png","button-color":"#ffffff","button-h-color":"#ffffff","button-bg-color":"#75c32c","button-bg-h-color":"#4e5768","button-radius":50,"button-h-padding":25,"button-v-padding":10,"site-content-layout":"boxed-container","display-site-tagline":false,"transparent-header-logo-width":{"desktop":"58","tablet":"60","mobile":"50"},"transparent-header-color-site-title-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"font-size-site-title":{"desktop":"20","tablet":"","mobile":"20","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"transparent-content-section-text-color-responsive":{"desktop":"#4e5768","tablet":"","mobile":""},"transparent-content-section-link-color-responsive":{"desktop":"rgba(78,87,104,0.9)","tablet":"","mobile":""},"transparent-content-section-link-h-color-responsive":{"desktop":"#75c32c","tablet":"","mobile":""},"transparent-header-on-devices":"desktop","transparent-header-enable":false,"transparent-header-disable-index":true,"transparent-header-disable-page":false,"transparent-header-disable-posts":true,"transparent-header-disable-woo-products":true,"single-product-sidebar-layout":"no-sidebar","transparent-header-bg-color-responsive":{"desktop":"rgba(0,0,0,0.2)","tablet":"","mobile":""},"primary-submenu-item-border":true,"font-size-h3":{"desktop":"22","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"_astra_pb_compatibility_completed":true},"custom-css":""}
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/410/wxr.xml
+Inserted - Term 16 - {"term_id":16,"name":"Cactus","slug":"cactus","term_group":0,"term_taxonomy_id":16,"taxonomy":"product_cat","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 17 - {"term_id":17,"name":"page","slug":"page","term_group":0,"term_taxonomy_id":17,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 18 - {"term_id":18,"name":"Plants","slug":"plants","term_group":0,"term_taxonomy_id":18,"taxonomy":"product_cat","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 19 - {"term_id":19,"name":"section","slug":"section","term_group":0,"term_taxonomy_id":19,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 20 - {"term_id":20,"name":"Main Menu","slug":"main-menu","term_group":0,"term_taxonomy_id":20,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 68 - attachment - cactus4-free-img
+Inserted - Post 69 - attachment - cactus2-free-img
+Inserted - Post 70 - attachment - cactus1-free-img
+Inserted - Post 71 - attachment - cactus3-free-img
+Inserted - Post 72 - attachment - cactus5-free-img
+Inserted - Post 73 - attachment - cactus6-free-img
+Inserted - Post 74 - attachment - plant1-free-img
+Inserted - Post 75 - attachment - plant2-free-img
+Inserted - Post 76 - attachment - plant3-free-img
+Inserted - Post 77 - attachment - plant4-free-img
+Inserted - Post 78 - attachment - plant5-free-img
+Inserted - Post 79 - attachment - plant6-free-img
+Inserted - Post 89 - attachment - quote-free-img
+Inserted - Post 92 - attachment - user1-free-img
+Inserted - Post 93 - attachment - user2-free-img
+Inserted - Post 94 - attachment - user3-free-img
+Inserted - Post 112 - attachment - home-bg2-free-img
+Inserted - Post 125 - attachment - plant1-free-img
+Inserted - Post 127 - attachment - plant2-free-img
+Inserted - Post 131 - attachment - about-bg-free-img
+Inserted - Post 135 - attachment - bg3-free-img
+Inserted - Post 140 - attachment - bg4-free-img
+Inserted - Post 144 - attachment - mate1-free-img
+Inserted - Post 145 - attachment - mate2-free-img
+Inserted - Post 146 - attachment - mate3-free-img
+Inserted - Post 189 - attachment - cat1-free-img
+Inserted - Post 263 - attachment - contact-bg-free-img
+Inserted - Post 276 - attachment - cat2-free-img
+Inserted - Post 277 - attachment - cat3-free-img
+Inserted - Post 284 - attachment - demo-screenshot-free-img
+Inserted - Post 285 - elementor-hf - Site Footer
+Inserted - Post 311 - attachment - floral-divider-free-img
+Inserted - Post 312 - attachment - floral1-divider-free-img
+Inserted - Post 330 - attachment - logo@2x-free-img
+Inserted - Post 331 - attachment - logo-free-img
+Inserted - Post 338 - attachment - logo1@2x-free-img
+Inserted - Post 339 - attachment - logo1-free-img
+Inserted - Post 466 - attachment - plant-store-fb
+Inserted - Post 500 - attachment - qr2.jpg
+Inserted - Post 546 - attachment - woocommerce-placeholder
+Inserted - Post 547 - page - Cart
+Inserted - Post 548 - page - Checkout
+Inserted - Post 549 - page - My account
+Inserted - Post 550 - page - Home
+Inserted - Post 551 - page - About Us
+Inserted - Post 552 - page - Store
+Inserted - Post 12 - page - Contact Us
+Inserted - Post 16 - nav_menu_item - HOME
+Inserted - Post 18 - nav_menu_item - 
+Inserted - Post 19 - nav_menu_item - STORE
+Inserted - Post 21 - nav_menu_item - MY ACCOUNT
+Inserted - Post 45 - product - Old Lady Cactus
+Inserted - Post 51 - product - Mini San Pedro Cactus
+Inserted - Post 52 - product - Cleistocactus
+Inserted - Post 53 - product - Ball Cactus
+Inserted - Post 80 - product - Star Cactus
+Inserted - Post 214 - nav_menu_item - PLANTS
+Inserted - Post 215 - nav_menu_item - CACTUS
+Inserted - Post 455 - nav_menu_item - CONTACT US
+Inserted - Post 456 - nav_menu_item - ABOUT US
+Inserted - Post 81 - product - Mini Astrophytum
+Inserted - Post 82 - product - Rattle Snake Tail
+Inserted - Post 83 - product - Piorro Quisquam
+Inserted - Post 84 - product - Green Soil Lotus
+Inserted - Post 85 - product - Boncellensis Secullant
+Inserted - Post 86 - product - Aluminum Plant
+Inserted - Post 87 - product - Money Plant
+Imported - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":{"20":{"term_id":20,"name":"Uncategorized","slug":"uncategorized","description":""},"22":{"term_id":22,"name":"Cactus","slug":"cactus","description":""},"23":{"term_id":23,"name":"Plants","slug":"plants","description":""}},"woocommerce_product_cat":[{"slug":"uncategorized","thumbnail_id":"","thumbnail_src":""},{"slug":"cactus","thumbnail_id":"43","thumbnail_src":""},{"slug":"plants","thumbnail_id":"","thumbnail_src":""}],"custom_logo":"https:\/\/websitedemos.net\/plant-store-02\/wp-content\/uploads\/sites\/410\/2019\/01\/logo1-free-img-1.png","nav_menu_locations":{"primary":"main-menu"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"siteorigin_widgets_active":null,"elementor_container_width":"1200","elementor_cpt_support":["post","page"],"elementor_css_print_method":"external","elementor_default_generic_fonts":"Sans-serif","elementor_disable_color_schemes":"yes","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":null,"elementor_global_image_lightbox":"yes","elementor_page_title_selector":"","elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker]":{"1":"#6ec1e4","2":"#54595f","3":"#4e5768","4":"#75c32c","5":"#4054b2","6":"#23a455","7":"#000","8":"#fff"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":"","elementor_stretched_section_container":"","elementor_load_fa4_shim":"yes","woocommerce_shop_page_title":"","woocommerce_cart_page_title":"Cart","woocommerce_checkout_page_title":"Checkout","woocommerce_myaccount_page_title":"My account","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":"yes","woocommerce_enable_checkout_login_reminder":"no","woocommerce_enable_signup_and_login_from_checkout":"no","woocommerce_enable_myaccount_registration":"no","woocommerce_registration_generate_username":"yes","wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null}
+Imported - Widgets {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}}}
+Complete 
+Batch Process Started!
+Astra Sites - Importing Images for Blog name 'Our Bangladesh' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing MISC ----
+Post ID: 455
+Post ID: 456
+Post ID: 214
+Post ID: 215
+Post ID: 21
+Post ID: 16
+Post ID: 19
+Post ID: 18
+Batch Process Complete!
